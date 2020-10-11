@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[8]:
-
-
 import random
 import string
 
@@ -18,22 +12,5 @@ def get_random_password_string(letters_count=6, digits_count=4,splchar_count=2):
     return final_string
 
 get_random_password_string()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
 
 
